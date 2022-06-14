@@ -1,0 +1,16 @@
+permutation test: 
+1. confirm that home win ratio is indeed different from away win ratio
+2. and by how much on average for most team
+
+
+linear regression: 
+1. star player performance and game win status
+
+
+similarity test: 
+1. between champion teams in different years
+2. playoff teams vs last year champion team
+3. the closest player to Jordan
+
+
+the pattern of a champion team? 
